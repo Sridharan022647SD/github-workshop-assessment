@@ -10,4 +10,4 @@ This repository is created for GitHub workshop practice.
 - README.md
 - intro.txt
 
-Resolve 1
+Resolve final
